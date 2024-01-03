@@ -19,10 +19,10 @@
   - 시각장애인의 활동 반경의 확장을 기대함
 
 ## 서비스 시연 영상(Youtube) 링크
-- 실제 서비스의 경우 headless option을 활용하기 때문에 구동 속도가 훨씬 빠릅니다. 작동 원리를 보여드리고자 headless를 사용하지 않았습니다.
 - 하단의 영상 이미지를 클릭하세요
 
   [![Video Label](http://img.youtube.com/vi/VW3GVJosuko/0.jpg)](https://youtu.be/VW3GVJosuko)
+- 실제 서비스의 경우 headless option을 활용하기 때문에 구동 속도가 훨씬 빠릅니다. 작동 원리를 보여드리고자 headless를 사용하지 않았습니다.
  
 ## 수상 관련 기사 링크
 https://www.ablenews.co.kr/news/articleView.html?idxno=205647
