@@ -17,6 +17,11 @@
 - 시각장애인의 정보접근성 강화
   - 정확한 키워드를 입력하지 않아도 해당 장소가 검색됨. 구체적인 상호명이 아니더라도 ‘성수 커피’와 같이 응답하면 최상위에 위치한 카페 관련 검색어를 도출함
   - 시각장애인의 활동 반경의 확장을 기대함
+
+## 서비스 시연 영상(Youtube) 링크
+- 하단의 영상 이미지를 클릭하세요
+
+  [![Video Label](http://img.youtube.com/vi/VW3GVJosuko/0.jpg)](https://youtu.be/VW3GVJosuko)
  
 ## 수상 관련 기사 링크
 https://www.ablenews.co.kr/news/articleView.html?idxno=205647
